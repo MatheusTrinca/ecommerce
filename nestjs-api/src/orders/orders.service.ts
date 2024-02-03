@@ -46,7 +46,7 @@ export class OrdersService {
       card_hash: createOrderDto.card_hash,
       total: order.total,
     });
-    //publish diretamente numa fila
+
     return order;
   }
 
