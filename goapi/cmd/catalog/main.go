@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/MatheusTrinca/ecommerce-api/goapi/internal/database"
-	"github.com/MatheusTrinca/ecommerce-api/goapi/internal/service"
-	"github.com/MatheusTrinca/ecommerce-api/goapi/internal/webserver"
+	"github.com/MatheusTrinca/ecommerce-imersao/goapi/internal/database"
+	"github.com/MatheusTrinca/ecommerce-imersao/goapi/internal/service"
+	"github.com/MatheusTrinca/ecommerce-imersao/goapi/internal/webserver"
 	"github.com/go-chi/chi/middleware"
 	"github.com/go-chi/chi/v5"
 	_ "github.com/go-sql-driver/mysql"

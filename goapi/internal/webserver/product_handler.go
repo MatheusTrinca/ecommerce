@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/MatheusTrinca/ecommerce-api/goapi/internal/entity"
-	"github.com/MatheusTrinca/ecommerce-api/goapi/internal/service"
+	"github.com/MatheusTrinca/ecommerce-imersao/goapi/internal/entity"
+	"github.com/MatheusTrinca/ecommerce-imersao/goapi/internal/service"
 	"github.com/go-chi/chi/v5"
 )
 

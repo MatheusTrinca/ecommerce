@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/MatheusTrinca/ecommerce-api/goapi/internal/database"
-	"github.com/MatheusTrinca/ecommerce-api/goapi/internal/entity"
+	"github.com/MatheusTrinca/ecommerce-imersao/goapi/internal/database"
+	"github.com/MatheusTrinca/ecommerce-imersao/goapi/internal/entity"
 )
 
 type CategoryService struct {

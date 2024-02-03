@@ -1,4 +1,4 @@
-module github.com/MatheusTrinca/ecommerce-api/goapi
+module github.com/MatheusTrinca/ecommerce-imersao/goapi
 
 go 1.21.3
 
